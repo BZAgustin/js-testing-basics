@@ -1,0 +1,19 @@
+{
+  "name": "js-testing-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BZAgustin/js-testing-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BZAgustin/js-testing-basics/issues"
+  },
+  "homepage": "https://github.com/BZAgustin/js-testing-basics#readme"
+}
